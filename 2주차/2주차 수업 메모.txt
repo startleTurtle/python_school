@@ -1,0 +1,5 @@
+print(인수(or 인자, Argument);
+함수
+,로 몇개인지 구분
+
+이스케이프(escape character)
